@@ -3,13 +3,16 @@
 ## **Challenges**
 
 ### Challenge 1
-
 ```
-Program to find the greatest of Two numbers
+The given number is positive.
 ```
-### Challenge 1
+### Challenge 2
 ```
-Program to find the greatest of Three numbers
+Program to find the greatest of Two numbers.
+```
+### Challenge 3
+```
+Program to find the greatest of Three numbers.
 ```
 
 ## **NB**
