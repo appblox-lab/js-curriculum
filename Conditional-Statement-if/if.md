@@ -31,7 +31,8 @@ expected out put is:- "this is a Sunday", "this is a Monday" etc.
 ```
 ### Challenge 7
 ```
-Create a Program Containing Roll No, Mark of Six Subjects (out of 100) Calculations Total Marks and Percentages Then find results and Grade
+Create a Program Containing Roll No, Mark of Six Subjects (out of 100) 
+Calculations Total Marks and Percentages Then find results and Grade
 Result -- Minimum mark of each subject >=35,”Pass” Else “Fail”
 Grade -- Percentage >=80,”A Grade”
 Percentage >=70,”B Grade”
