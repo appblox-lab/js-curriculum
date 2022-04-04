@@ -103,6 +103,23 @@ Sl.No |  name  |  Emp Code | Designation | Basic salary
   4   |  Suttu |    Emp70  |    Peon     |     3000
   5   |  Tom   |    Emp80  |    Engineer |     10000 
 ```
+### Challenge 9
+- Discounts of Each 2.50% is given each ITEM
+- If total>100, Then 3% of total is given as Reduction, Else 2.50% of
+Total is given as Reduction
+- If item is pencil, special gift is “Eraser” Else “Nill”
+```
+Item    | MRP | Discount | Price | Quantity | Total | Reduction | NetPrice | Gift
+--------+-----+----------+-------+----------+-------+-----------+----------+-----
+Book    | 48  |     ?    |   ?   |     ?    |   ?   |     ?     |     ?    |  ? 
+Bag     | 350 |     ?    |   ?   |     ?    |   ?   |     ?     |     ?    |  ? 
+Pen     | 15  |     ?    |   ?   |     ?    |   ?   |     ?     |     ?    |  ? 
+Pencil  | 10  |     ?    |   ?   |     ?    |   ?   |     ?     |     ?    |  ? 
+Book    | 33  |     ?    |   ?   |     ?    |   ?   |     ?     |     ?    |  ? 
+Bag     | 375 |     ?    |   ?   |     ?    |   ?   |     ?     |     ?    |  ? 
+Pen     | 25  |     ?    |   ?   |     ?    |   ?   |     ?     |     ?    |  ? 
+Pencil  | 23  |     ?    |   ?   |     ?    |   ?   |     ?     |     ?    |  ? 
+```
 ## **NB**
 
 consider all `edge` cases.
