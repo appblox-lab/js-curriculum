@@ -14,6 +14,15 @@ Program to find the greatest of Two numbers.
 ```
 Program to find the greatest of Three numbers.
 ```
+### Challenge 4
+```
+The Program to check which number is even or odd?
+```
+### Challenge 5
+```
+A Program to check a letter wether is it a vowel or not? 
+using else if statement.
+```
 
 ## **NB**
 
