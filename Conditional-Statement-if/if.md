@@ -51,7 +51,7 @@ Percentage >=35,”E Grade ” Else “Fail”
 |sub5           |   70
 |sub6           |   80
 |Total          |   ?
-|result         |   ?
+|Result         |   ?
 |Grade          |   ?
 ```
 **Test Cases**
