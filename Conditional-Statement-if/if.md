@@ -4,7 +4,7 @@
 
 ### Challenge 1
 ```
-The given number is positive.
+The given number is positive or not?.
 ```
 ### Challenge 2
 ```
