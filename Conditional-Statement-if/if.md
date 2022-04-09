@@ -25,21 +25,99 @@ using else if statement.
 ```
 ### Challenge 6
 ```
-get the exact day of the week with the if statement.
+get the exact day of the week with the else if statement.
 using Date() function.
 expected out put is:- "this is a Sunday", "this is a Monday" etc.
 ```
-### Challenge 6
-```
-A program to find out the grade?
+## **Key Notes**
 
-Grade -- Percentage >=80,”A Grade”
-Percentage >=70,”B Grade”
-Percentage >=60,”C Grade”
-Percentage >=50,”D Grade”
-Percentage >=35,”E Grade ” Else “Fail”
-```
+<details>
+  <summary>Hint</summary>
+
+## **If Statement**
+
+`if` statement is used to execute the code whether condition is true
+
+Syntax
+  ```js
+    
+    if(expression)//true block  in single line
+
+    if(expression){  
+        // true block  
+        // multi line
+        // ...
+    }  
+
+    if(expression){  
+        // true block  
+        // ...
+        if(expression){  
+         // true block  
+        }  
+        // ...
+    }  
+  ```
+  
+  Strategy - 1
+  ```js
+    const result = 10 > 6;
+    if(result)//content to be evaluated  single line
+  ```
+
+  Strategy - 2
+  ```js
+    const result = 10 > 6;
+    if(result){
+        // content to be evaluated...
+        // multi line...
+        // ...
+    }
+  ```
+ Strategy - 3
+  ```js
+    if(10 > 6){
+        // content to be evaluated...
+        // multi line...
+        // ...
+    }
+  ```
+  ## **If Else If Statement**
+
+  `if-else` statement is used to execute the code whether condition is true or false.
+  Syntax
+  ```js
+    if(expression){  
+        // true block
+        // ...
+    } else {
+        // false block
+        // ...
+    } 
+  ```
+  ## **If Else Statement**
+
+  `if-else-if` evaluates the content only if expression is true from several expressions.
+  Syntax
+  ```js
+    if(expression1){  
+        //content to be evaluated if expression1 is true  
+    }  
+    else if(expression2){  
+        //content to be evaluated if expression2 is true  
+    }  
+    else if(expression3){  
+        //content to be evaluated if expression3 is true  
+    }  
+    else{  
+        //content to be evaluated if expression is false  
+    }  
+  ```
+
+</details>
+
 ## **NB**
+consider all `edge` cases.
 ## **References**
 
 [variables](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#variables)
