@@ -3,7 +3,7 @@
 ## **Challenges**
 
 ### Challenge 1
-```json
+```js
 A program to find out the grade?
 
 Grade -- Percentage >=80,”A Grade”
